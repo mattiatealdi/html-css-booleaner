@@ -1,0 +1,134 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+main{
+  margin: 10px 10%;
+}
+
+#intestazione{
+  height: 170px;
+  width: 100%;
+  background-image: url("/img/pattern.png");
+  background-color: #4EA0FF;
+  margin-bottom: 20px;
+}
+
+#logo{
+  width:300px;
+  margin-left: 10%;
+  padding-top: 80px;
+}
+
+#title{
+  margin-bottom: 5px;
+  font-size: bolder;
+}
+
+
+#intro span{
+  color: #838383;
+}
+
+#intro #the-booleaner{
+  color: #3EB4E9;
+}
+
+#data{
+  font-size: 12px;
+}
+
+#img-fondatore{
+  margin-top:20px;
+}
+
+#testo{
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.evidenziato{
+  background-color: yellow;
+}
+
+#lista{
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+#ultimo-testo{
+  margin-top:30px;
+  font-size: 20px;
+}
+
+#potrebberero-interessarti{
+  font-size: 20px;
+  font-weight: bold;
+}
+section h5{
+  margin-top:20px;
+  font-size: 25px;
+  color: #838383;
+  margin-bottom: 10px;
+}
+
+section h6{
+  color: white;
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+.mac{
+  background-image: url(/img/monitor.jpg);
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.grafico{
+  margin-top: 30px;
+  background-image: url(/img/graph.jpg);
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.colonna1, .colonna2{
+  width: 140px;
+  text-align: left;
+
+}
+
+.colonna3{
+  width: 500px;
+  text-align: left;
+}
+
+tbody tr td{
+  text-align: left;
+}
+
+.prima-riga{
+  background-color: #20A9E5;
+  color: white;
+}
+
+.seconda-riga, .quarta-riga{
+  background-color: #B1E5F2;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: none;
+}
